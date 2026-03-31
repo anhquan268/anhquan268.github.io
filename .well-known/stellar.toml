@@ -1,0 +1,8 @@
+[[CURRENCIES]]
+code="CAT"
+issuer="GAA3ZXB3OKRERJMMCK7RTANYNXKLCV4JTNRTFRNYZC3LZGNI4YT3SZZ7"
+display_decimals=4
+name="CAT"
+desc="1 CAT token represent 1 cat in the world"
+conditions="There will only ever be 600,000,000 CAT tokens in existence."
+image="https://avatars1.githubusercontent.com/u/36980416"
